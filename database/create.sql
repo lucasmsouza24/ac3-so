@@ -12,9 +12,9 @@ CREATE TABLE person(
 );
 
 -- DML
-INSERT INTO person(name, age) VALUES 
-('lucas mesquita', 20),
-('jonh mayer', 37),
-('ringo starr', 50),
-('dan reynalds', 28),
-('gal gadot', 18)
+-- INSERT INTO person(name, age) VALUES 
+-- ('lucas mesquita', 20),
+-- ('jonh mayer', 37),
+-- ('ringo starr', 50),
+-- ('dan reynalds', 28),
+-- ('gal gadot', 18)
